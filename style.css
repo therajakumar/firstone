@@ -545,6 +545,7 @@ section {
 .footer .links a:hover {
   background: var(--main-color);
 }
+
 .footer .credit {
   font-size: 2rem;
   color: #fff;
